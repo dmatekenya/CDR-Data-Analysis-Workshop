@@ -7,7 +7,7 @@ The goal of the one day training workshop is to introduce participants to tools 
 
 
 # Repository Setup
-The source code live in the *src* folder. Due to large size of powerpoint files, these are not included in the repository, instead you can find uptodate [powerpoint slides here](https://drive.google.com/drive/folders/1De7WJEfil3fgOKQ2zbPR01jR8U6-B4dv?usp=sharing). Also, the data is not included in the repository, it will be shared during the session. All the code use **Python 3**.
+The source code live in the *src* folder. Due to large size of powerpoint files, these are not included in the repository, instead you can find uptodate [powerpoint slides here](https://drive.google.com/drive/folders/1nq07zZly_TXXMu3i7bUIWBwoxxNiuhei?usp=sharing). Also, the data is not included in the repository, it will be shared during the session. All the code use **Python 3**.
 
 
 
